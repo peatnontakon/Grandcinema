@@ -1,0 +1,14 @@
+.movielist {
+    align-items: center;
+    justify-content: center;
+}
+
+.movielist img {
+    width: 100px; /* Ensure the image takes up 100% of the container width */
+    height: 100px; /* Maintain aspect ratio */
+    margin-bottom: 8px; /* Add some spacing between image and text */
+}
+
+.movielist button {
+    display: block;
+}
